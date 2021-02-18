@@ -1,0 +1,14 @@
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.deps.json
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.pdb
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfo.cs
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CopyComplete
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\Users\amanv\source\repos\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.pdb
