@@ -15,3 +15,4 @@ C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Entity\obj\Debug\netcoreapp
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csproj.CoreCompileInputs.cache
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.dll
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csprojAssemblyReference.cache

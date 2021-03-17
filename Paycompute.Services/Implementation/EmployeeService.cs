@@ -42,5 +42,13 @@ namespace Paycompute.Services.Implementation
             _context.Update(employee);
             await _context.SaveChangesAsync();
         }
+        public decimal StudentLoanRepaymentAmount(int id, decimal totalAmount)
+        {
+            throw new NotImplementedException();
+        }
+        public decimal UnionFees(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

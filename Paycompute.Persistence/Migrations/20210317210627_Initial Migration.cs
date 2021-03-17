@@ -61,6 +61,7 @@ namespace Paycompute.Persistence.Migrations
                     ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     DOB = table.Column<DateTime>(type: "datetime2", nullable: false),
                     DateJoined = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Phone = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Designation = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     NationalInsuranceNo = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),

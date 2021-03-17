@@ -180,3 +180,5 @@ C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.Views.pdb
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.csproj.CopyComplete
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.genruntimeconfig.cache
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
