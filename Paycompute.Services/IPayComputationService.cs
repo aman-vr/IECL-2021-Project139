@@ -20,5 +20,6 @@ namespace Paycompute.Services
         decimal TotalEarnings(decimal OvertimeEarnings, decimal ContractualEarnings);
         decimal TotalDeduction(decimal tax, decimal nic, decimal studentLoanRepayment, decimal unionFees);
         decimal NetPay(decimal TotalEarnings, decimal TotalDeduction);
+        TaxYear GetTaxYearById(int id);
     }
 }

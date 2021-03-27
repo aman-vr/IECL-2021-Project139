@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
 
 namespace Paycompute.Entity
 {
     public class PaymentRecord
     {
         public int Id { get; set; }
-        [ForeignKey ("Employee")]
+        [ForeignKey("Employee")]
         public int EmployeeId { get; set; }
         public Employee Employee { get; set; }
         [MaxLength(100)]
