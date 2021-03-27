@@ -10,10 +10,11 @@
       <group targetFramework=".NETCoreApp3.1">
         <dependency id="Paycompute.Entity" version="1.0.0" exclude="Build,Analyzers" />
         <dependency id="Paycompute.Persistence" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="FontAwesome" version="4.7.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\amanv\source\repos\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll" target="lib\netcoreapp3.1\Paycompute.Services.dll" />
+    <file src="C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll" target="lib\netcoreapp3.1\Paycompute.Services.dll" />
   </files>
 </package>

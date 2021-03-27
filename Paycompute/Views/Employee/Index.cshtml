@@ -10,7 +10,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index"> Home </a></li>
-                        <li class="breadcrumb-item active" aria-current="page"> Employee List </></li>
+                        <li class="breadcrumb-item active" aria-current="page"> Employee List </li>
                     </ol>
                 </nav><br/><br/>
                 <div class="row">
@@ -45,7 +45,7 @@
                                     <td>@item.Gender</td>
                                     <td>@item.Designation</td>
                                     <td>@item.City</td>
-                                    <td>@item.DateJoined</td>
+                                    <td>@item.DateJoined.ToString("dd/MM/yyyy")</td>
                                     <td>
                                         <a class="text-primary" asp-action="Edit" asp-route-id="@item.Id">
                                             <i class="fas fa-edit"></i> Edit

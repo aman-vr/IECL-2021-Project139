@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/ho8ADrpfLZHvYTbnG6cax/zL6qL7FDQpsXJ6IMDSe1iAAH4+uHPG68DU7WU/a6YXzuQxqH4MuosFcQihOWEMg==",
+  "dgSpecHash": "uPvABafwTqif4PMKqgVjRXTOhRizdzacIiLrLvP8KAgDmC0SZ2shLHkm7hvYismJIv9Du+NhZ+Zm49bZR1YNaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\amanv\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\amanv\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

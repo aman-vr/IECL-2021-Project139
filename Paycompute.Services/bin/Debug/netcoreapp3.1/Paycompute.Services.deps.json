@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Paycompute.Services/1.0.0": {
         "dependencies": {
+          "FontAwesome": "4.7.0",
           "Paycompute.Entity": "1.0.0",
           "Paycompute.Persistence": "1.0.0"
         },
@@ -15,6 +16,7 @@
           "Paycompute.Services.dll": {}
         }
       },
+      "FontAwesome/4.7.0": {},
       "Microsoft.AspNetCore.Cryptography.Internal/5.0.3": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -1114,12 +1116,16 @@
         }
       },
       "Paycompute.Entity/1.0.0": {
+        "dependencies": {
+          "FontAwesome": "4.7.0"
+        },
         "runtime": {
           "Paycompute.Entity.dll": {}
         }
       },
       "Paycompute.Persistence/1.0.0": {
         "dependencies": {
+          "FontAwesome": "4.7.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
           "Paycompute.Entity": "1.0.0"
@@ -1135,6 +1141,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FontAwesome/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n4H/brfszElyoZ4kmGh8E75uqvLzLvFr3h2PFVdPH1LwUmWIpeqdaW2pcC4oZAhg7sESyObh0IZpAI8COCNeUg==",
+      "path": "fontawesome/4.7.0",
+      "hashPath": "fontawesome.4.7.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/5.0.3": {
       "type": "package",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PGEg+vimOFOO8IHGDcCar1lToYscrBCr5fUcaltVj/An7qUbpohkvdXe9IYIsuNUoyBE7YI5T6Y4NnMvpuwwpw==",
+  "dgSpecHash": "FXGgZskdis44XP1pjaYvameX3qnb97iGRLF9szDjpliXZ88aqnBB+VbhCutfMrK6ajbhIoZvS3x2QtGh/d42Lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\amanv\\source\\repos\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\amanv\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
     "C:\\Users\\amanv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\amanv\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.3\\microsoft.aspnetcore.cryptography.internal.5.0.3.nupkg.sha512",
     "C:\\Users\\amanv\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.3\\microsoft.aspnetcore.cryptography.keyderivation.5.0.3.nupkg.sha512",
