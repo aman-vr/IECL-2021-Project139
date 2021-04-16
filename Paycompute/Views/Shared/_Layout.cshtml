@@ -7,16 +7,20 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="stylesheet" href="~/css/style.css" />
-    <link rel="stylesheet" href="https://cdn.js.cloudfare.com/ajax/libs/font-awesome/5.8.2/css/all.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+
+
+
 </head>
 <body>
     <div class="container-scroller">
-        <nav class="navbar col-lg-12 col-12 pd-0 fixed-top d-flex flex-row">
+        <nav class="navbar col-12 col-lg-12 fixed-top d-flex flex-row" style="padding: 0 0 0 0 !important">
             <div class="text-center navbar-brand-wrapper d-flex align-items-lg-center justify-content-center">
-                <a class="navbar-brand brand-logo"> <img src="~/images/Paycompute2.gif" alt="logo"/></a>
+                <a class="navbar-brand brand-logo"  asp-controller="Home" asp-action="Index"> <img src="~/images/Paycompute2.gif" alt="logo" /></a>
             </div>
             <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
-                <partial name="_LoginPartial"/>
+                <partial name="_LoginPartial" />
             </div>
         </nav>
         <div class="container-fluid page-body-wrapper">
@@ -59,7 +63,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Pay" asp-action="Index">
-                                        Payment Records  
+                                        Payment Records
                                     </a>
                                 </li>
                             </ul>
@@ -68,7 +72,7 @@
                 </ul>
             </nav>
             <div class="main-panel">
-                <partial name="_CookieConsentPartial"/>
+                <partial name="_CookieConsentPartial" />
                 <div class="content-wrapper">
                     @RenderBody()
                 </div>

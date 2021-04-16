@@ -9,7 +9,15 @@
       "DEBUG",
       "NET",
       "NET5_0",
-      "NETCOREAPP"
+      "NETCOREAPP",
+      "NET5_0_OR_GREATER",
+      "NETCOREAPP1_0_OR_GREATER",
+      "NETCOREAPP1_1_OR_GREATER",
+      "NETCOREAPP2_0_OR_GREATER",
+      "NETCOREAPP2_1_OR_GREATER",
+      "NETCOREAPP2_2_OR_GREATER",
+      "NETCOREAPP3_0_OR_GREATER",
+      "NETCOREAPP3_1_OR_GREATER"
     ],
     "languageVersion": "9.0",
     "platform": "",
@@ -26,7 +34,7 @@
       "Paycompute/1.0.0": {
         "dependencies": {
           "FontAwesome": "4.7.0",
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.1",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.4",
           "Microsoft.AspNetCore.Identity.UI": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4",
@@ -34,7 +42,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.2",
           "Paycompute.Entity": "1.0.0",
           "Paycompute.Services": "1.0.0",
-          "RotativaCore": "2.2.0",
+          "RotativaCore": "3.0.0",
           "Microsoft.AspNetCore.Antiforgery.Reference": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions.Reference": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies.Reference": "5.0.0.0",
@@ -326,9 +334,6 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
-        },
-        "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/2.2.0": {
@@ -395,7 +400,7 @@
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.321.7303"
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -409,7 +414,7 @@
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.321.7303"
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -431,14 +436,14 @@
       },
       "Microsoft.AspNetCore.DataProtection.Abstractions/2.2.0": {},
       "Microsoft.AspNetCore.Diagnostics.Abstractions/2.2.0": {},
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.1": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.4": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "5.0.4"
         },
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.120.60107"
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -498,8 +503,8 @@
         },
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
-            "assemblyVersion": "5.0.3.0",
-            "fileVersion": "5.0.321.7303"
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -513,12 +518,12 @@
         },
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.120.60107"
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.421.11815"
           },
           "lib/net5.0/Microsoft.AspNetCore.Identity.UI.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.120.60107"
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -1122,12 +1127,9 @@
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.120.57509"
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.421.11803"
           }
-        },
-        "compile": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/5.0.4": {
@@ -1234,7 +1236,7 @@
         "runtime": {
           "lib/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.120.60107"
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -1259,7 +1261,7 @@
         "runtime": {
           "lib/net5.0/Microsoft.Extensions.Identity.Core.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.321.7303"
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -1275,7 +1277,7 @@
         "runtime": {
           "lib/net5.0/Microsoft.Extensions.Identity.Stores.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.321.7303"
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -1641,15 +1643,15 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
-      "RotativaCore/2.2.0": {
+      "RotativaCore/3.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Cookies": "2.0.0",
           "Microsoft.AspNetCore.Mvc": "2.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/RotativaCore.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.0"
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         },
         "compile": {
@@ -4484,12 +4486,12 @@
       "path": "microsoft.aspnetcore.diagnostics.abstractions/2.2.0",
       "hashPath": "microsoft.aspnetcore.diagnostics.abstractions.2.2.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.1": {
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-KJi0in1wzPmJA8w0IdzaZPAdXr/VIBJJkNg3ytjmbwz7BNXVwgEZARYt0OL8sBzH6m+rQZUabs/uP3qA6XI9jw==",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.1",
-      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.1.nupkg.sha512"
+      "sha512": "sha512-rgK89h9labCWL/SUndMuchzHmsvSW/jiHW1EON//QEswmHEde33dx/jPw6hlINZSVYs78z3Zquog2IvfS1Mg5g==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.4",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.4.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
       "type": "package",
@@ -5142,12 +5144,12 @@
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
     },
-    "RotativaCore/2.2.0": {
+    "RotativaCore/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OIxrnyn4Q0mmht9wj49+ECXi8JR60tuZaXdAU+2XHbP/p/d0OMi6BZahcuRqKhbd5oCvafl2fwWdzoh/wZsjtA==",
-      "path": "rotativacore/2.2.0",
-      "hashPath": "rotativacore.2.2.0.nupkg.sha512"
+      "sha512": "sha512-LiOz6Ec+awCS/dZgW7YNjDcpRIqc0EnRStVacUvfmgLRp9DhfbOomNpwpHW26sKvHTO4CxHsyxsNDwScHnUi+A==",
+      "path": "rotativacore/3.0.0",
+      "hashPath": "rotativacore.3.0.0.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",

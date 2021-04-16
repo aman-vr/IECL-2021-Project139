@@ -309,3 +309,5 @@ C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Area
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\bin\Debug\net5.0\WkHtmlToPdf\wkhtmltoimage.exe
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute\bin\Debug\net5.0\WkHtmlToPdf\wkhtmltopdf.exe

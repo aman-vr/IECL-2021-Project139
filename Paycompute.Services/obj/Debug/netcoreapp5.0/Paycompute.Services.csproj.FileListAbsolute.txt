@@ -1,0 +1,17 @@
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Services.deps.json
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Services.dll
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\ref\Paycompute.Services.dll
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Services.pdb
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Entity.dll
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Persistence.dll
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Entity.pdb
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp5.0\Paycompute.Persistence.pdb
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.AssemblyInfo.cs
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.csproj.CopyComplete
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.dll
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\ref\Paycompute.Services.dll
+C:\Users\amanv\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp5.0\Paycompute.Services.pdb

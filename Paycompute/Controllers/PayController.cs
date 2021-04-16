@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Paycompute.Controllers
 {
-    [Authorize(Roles ="Admin, Manager")]
+    [Authorize(Roles = "Admin, Manager")]
     public class PayController : Controller
     {
         private readonly IPayComputationService _payComputationService;
@@ -29,8 +29,8 @@ namespace Paycompute.Controllers
         private decimal nationalInsurance;
         private decimal totalDeduction;
 
-        public PayController(IPayComputationService payComputationService, 
-            IEmployeeService employeeService, 
+        public PayController(IPayComputationService payComputationService,
+            IEmployeeService employeeService,
             ITaxService taxService,
             INationalInsuranceContributionService nationalInsuranceContributionService)
         {
@@ -106,7 +106,7 @@ namespace Paycompute.Controllers
         public IActionResult Detail(int id)
         {
             var paymentRecord = _payComputationService.GetById(id);
-            if(paymentRecord == null)
+            if (paymentRecord == null)
             {
                 return NotFound();
             }
@@ -178,7 +178,9 @@ namespace Paycompute.Controllers
                 NetPayment = paymentRecord.NetPayment
             };
             return View(model);
+            //return new ViewAsPdf("Payslip", model);
         }
+
         public IActionResult GeneratePayslipPdf(int id)
         {
             var payslip = new ActionAsPdf("Payslip", new { id = id })
